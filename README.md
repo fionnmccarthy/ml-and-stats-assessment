@@ -6,8 +6,7 @@
 ---
 This is my repository for the project assessment in the module. This project consists jupyter notebooks from continuous assessment exercises that were detailed in lectures by Dr. Ian Mcloughlin and these can be found in the 'practical' folder of this github repository. The module also consisted of a further project notebook which entailed me  re-creating the Keras time series anomaly detection wesbite page at this <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/">link</a> and explaining concepts on the site in order to give an insight into the topic. 
 
-
-![xplotoutput](/images/atu.png)
+<center><img src="images/atu.png"/></center>
 
 ---
 ### Practicals
